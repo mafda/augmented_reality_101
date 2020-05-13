@@ -1,4 +1,4 @@
-# Augmented Reality
+# Augmented Reality 101
 
 Brief introduction
 
@@ -6,14 +6,17 @@ Brief introduction
 
 Examples list:
 
-* python/opencv
-* vuforia/unity3D
-* ARKit (apple)
-* ARCode (google)
+* python3 and opencv
+    * Image
+    * Video
 
 ## Results
 
 imagens
+
+## Models
+
+* [Chair](https://clara.io/view/67bc637b-c528-44a0-bfbc-84335d12bcfa) from [Clara.io](https://clara.io/scenes)
 
 ## References
 
