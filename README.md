@@ -2,6 +2,27 @@
 
 Brief introduction
 
+## Environment
+
+1. Create virtual environment:
+
+```
+python -m venv /path/to/new/virtual/environment
+```
+
+2. Activate environment:
+
+```
+source /path/to/new/virtual/environment/bin/activate
+```
+
+3. Install requirements.txt file:
+
+```
+	pip install -r requirements.txt
+```
+
+
 ## Demos
 
 Examples list:
