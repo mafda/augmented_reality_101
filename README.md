@@ -19,9 +19,20 @@ source /path/to/new/virtual/environment/bin/activate
 3. Install requirements.txt file:
 
 ```
-	pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
+4. For Image
+
+```
+python -m jupyter notebook
+```
+
+4. For Video
+
+```
+python ar_python_opencv.py
+```
 
 ## Demos
 
@@ -33,7 +44,9 @@ Examples list:
 
 ## Results
 
-imagens
+* Image
+
+![augmented reality python3 opencv2](results/sourceImage_results.png)
 
 ## Models
 
