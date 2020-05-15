@@ -1,13 +1,13 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Augmented Reality with Python3 and OpenCV.
+"""Augmented Reality with Python 3 and OpenCV 4.2
 """
 
 __author__ = "ma. fernanda rodriguez r."
 __email__ = "mafda13@gmail.com"
 __created__ = "Thu 14 May 2020 11:40:54 -0300"
-__modified__ = "Thu 14 May 2020 11:41:09 -0300"
+__modified__ = "Thu 15 May 2020 10:07:30 -0300"
 
 
 import cv2
@@ -207,11 +207,15 @@ def main():
                 frame, [np.int32(transformedCorners)], True, 255, 3, cv2.LINE_AA,
             )
 
+            # ================= Pose Estimation ================
+
             # obtain 3D projection matrix from homography matrix and camera parameters
             projection = projection_matrix(camera_parameters, homography)
 
             # project cube or model
             frame = render(frame, obj, projection, referenceImage, scale3d, False)
+
+            # ===================== Display ====================
 
             # show result
             cv2.imshow("frame", frame)
