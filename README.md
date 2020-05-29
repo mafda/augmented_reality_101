@@ -1,14 +1,14 @@
 # Augmented Reality 101
 
-The development of areas such as computer vision, image processing, and computer graphics, allow the introduction of technologies such as **Augmented Reality**.
+The development of areas such as *computer vision*, *image processing*, and *computer graphics*, allow the introduction of technologies such as **Augmented Reality**.
 
-[Azuma](https://www.cs.unc.edu/~azuma/ARpresence.pdf) defines **Augmented Reality** as a technology that adds computer-generated virtual content to real-world views through devices.
+[Azuma](https://www.cs.unc.edu/~azuma/ARpresence.pdf) defines **Augmented Reality** as *"a technology that adds computer-generated virtual content to real-world views through devices"*.
 
 ## Augmented reality application
 
-Currently, the industry is investing in different frameworks as [ARCore](https://developers.google.com/ar/discover), [ARKit](https://developer.apple.com/augmented-reality/), and [Vuforia](https://developer.vuforia.com/), among others, which provide the community more accessible technologies.
+ In this repository, I want to present a **basic implementation** that projects on the screen a 3D model aligned (orientation and translation) to a predefined flat surface.
 
-However, in this repository, I want to present a basic implementation that projects on the screen a 3D model aligned (orientation and translation) to a predefined flat surface.
+However, currently the industry is investing in different frameworks as [ARCore](https://developers.google.com/ar/discover), [ARKit](https://developer.apple.com/augmented-reality/), and [Vuforia](https://developer.vuforia.com/), among others, which provide the community more accessible technologies with more realistic results and experiences.
 
 The repository has two parts:
 
@@ -50,28 +50,32 @@ pip install -r requirements.txt
 python -m jupyter notebook
 ```
 
-4. For [Video](src/ar_python3_opencv4.py)
+5. For [Video](src/ar_python3_opencv4.py)
 
 ```
 python ar_python3_opencv4.py
 ```
 
-### Results
-
-* Image
-
-![augmented reality python3 opencv2](results/sourceImage_results.png)
-
-* Video
-
-![]()
-
-### Models
+### Model 3D
 
 * [Chair](https://clara.io/view/67bc637b-c528-44a0-bfbc-84335d12bcfa) from [Clara.io](https://clara.io/scenes)
 
+## Results
+
+* [Image](src/ar_python3_opencv4.ipynb)
+
+![augmented reality python3 opencv2](results/sourceImage_results.png)
+
+* [Video](src/ar_python3_opencv4.py)
+
+![]()
+
+
 ## References
 
-* [augmented-reality](https://github.com/juangallostra/augmented-reality)
+* JE Solem, *Programming Computer Vision with Python: Tools and algorithms for analyzing images*. O'Reilly Media, Inc.
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
+* [Open source Python module for computer vision ](https://github.com/jesolem/PCV)
 * [Augmented reality with Python and OpenCV](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
+* [augmented-reality](https://github.com/juangallostra/augmented-reality)
 * [OBJFileLoader](https://github.com/yarolig/OBJFileLoader)
