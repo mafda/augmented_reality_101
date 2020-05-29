@@ -7,7 +7,7 @@
 __author__ = "ma. fernanda rodriguez r."
 __email__ = "mafda13@gmail.com"
 __created__ = "Thu 14 May 2020 11:40:54 -0300"
-__modified__ = "Thu 15 May 2020 10:07:30 -0300"
+__modified__ = "Thu 29 May 2020 15:13:00 -0300"
 
 
 import cv2
@@ -231,5 +231,4 @@ def main():
 
 
 if __name__ == "__main__":
-
     main()
