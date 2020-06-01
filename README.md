@@ -79,9 +79,7 @@ python ar_python3_opencv4.py
 ### Results
 
 ![augmented reality python3 opencv2](results/sourceImage_results.png)
-
-
---- 
+ 
 
 ## Repository References
 
@@ -114,3 +112,7 @@ we go.* IEEE Access, 5:6917–6950. [Paper](https://ieeexplore.ieee.org/document
 * Peddie, J. (2017). *Augmented Reality: Where We Will All Live.* Springer International Publishing. [Book](https://www.springer.com/gp/book/9783319545011)
 
 * Roberto, R., Lima, J. P., and Teichrieb, V. (2016). *Tracking for mobile devices: A systematic mapping study.* Computers & Graphics, 56:20 – 30. [Paper](https://www.cin.ufpe.br/~in1123/2017-1/leitura/roberto.pdf)
+
+---
+
+made with 💙 by [mafda](https://mafda.github.io/)
