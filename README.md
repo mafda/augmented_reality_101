@@ -1,10 +1,26 @@
 # Augmented Reality 101
 
-The development of areas such as *computer vision*, *image processing*, and *computer graphics*, allow the introduction of technologies such as **Augmented Reality**.
+The development of areas such as computer vision, image processing, and computer graphics, allow the introduction of technologies such as **Augmented Reality**.
 
 [Azuma](https://www.cs.unc.edu/~azuma/ARpresence.pdf) defines **Augmented Reality** as *"a technology that adds computer-generated virtual content to real-world views through devices"*.
 
-## Augmented reality application
+## Introduction
+
+The purpose of these map is to give you an idea about **Augmented Reality** and to guide you through the main features that surround this technology.
+
+![augmented reality by mafda](img/augmented_reality_by_mafda_01.png)
+
+### Definition / Basic features / Tendencies
+
+![augmented reality by mafda](img/augmented_reality_by_mafda_02.png)
+
+### Advantages / System componentes / Problems
+
+![augmented reality by mafda](img/augmented_reality_by_mafda_03.png)
+
+
+
+## Augmented Reality Application
 
  In this repository, I want to present a **basic implementation** that projects on the screen a 3D model aligned (orientation and translation) to a predefined flat surface.
 
@@ -60,16 +76,12 @@ python ar_python3_opencv4.py
 
 * [Chair](https://clara.io/view/67bc637b-c528-44a0-bfbc-84335d12bcfa) from [Clara.io](https://clara.io/scenes)
 
-## Results
-
-* [Image](src/ar_python3_opencv4.ipynb)
+### Results
 
 ![augmented reality python3 opencv2](results/sourceImage_results.png)
 
-* [Video](src/ar_python3_opencv4.py)
 
-![]()
-
+--- 
 
 ## References
 
