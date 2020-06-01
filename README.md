@@ -94,24 +94,23 @@ python ar_python3_opencv4.py
 
 ## Map References
 
-* Azuma, R. T. (1997). *A survey of augmented reality*. Presence: Teleoper. Virtual Environ., 6(4):355–385.
+* Azuma, R. T. (1997). *A survey of augmented reality*. Presence: Teleoper. Virtual Environ., 6(4):355–385. [Paper](https://www.cs.unc.edu/~azuma/ARpresence.pdf) 
 
 * Chatzopoulos, D., Bermejo, C., Huang, Z., and Hui, P. (2017). *Mobile augmented reality survey: From where we are to where
-we go.* IEEE Access, 5:6917–6950.
+we go.* IEEE Access, 5:6917–6950. [Paper](https://ieeexplore.ieee.org/document/7912316)
 
-* Craig, A. (2013). *Understanding Augmented Reality: Concepts and Applications.* Elsevier Science, 1 edition.
+* Craig, A. (2013). *Understanding Augmented Reality: Concepts and Applications.* Elsevier Science, 1 edition. [Book](https://www.sciencedirect.com/book/9780240824086/understanding-augmented-reality)
 
-* Fleck, P., Arth, C., Pirchheim, C., and Schmalstieg, D. (2015).   *tracking and mapping with a swarm of heterogeneous clients*. In 2015 IEEE International Symposium on Mixed and Augmented
-Reality, pages 136–139.
+* Fleck, P., Arth, C., Pirchheim, C., and Schmalstieg, D. (2015).   *Tracking and mapping with a swarm of heterogeneous clients*. In 2015 IEEE International Symposium on Mixed and Augmented Reality, pages 136–139. [Paper](https://ieeexplore.ieee.org/document/7328080)
 
-* Huang, Z., Hui, P., Peylo, C., and Chatzopoulos, D. (2013). *Mobile augmented reality survey: a bottom-up approach.* CoRR.
+* Huang, Z., Hui, P., Peylo, C., and Chatzopoulos, D. (2013). *Mobile augmented reality survey: a bottom-up approach.* CoRR. [Paper](https://arxiv.org/pdf/1309.4413.pdf)
 
-* Lehiani, Y., Maidi, M., Preda, M., and Ghorbel, F. (2015). *Object identification and tracking for steady registration in mobile augmented reality*. In 2015 IEEE International Conference on Signal and Image Processing Applications (ICSIPA), pages 54–59.
+* Lehiani, Y., Maidi, M., Preda, M., and Ghorbel, F. (2015). *Object identification and tracking for steady registration in mobile augmented reality*. In 2015 IEEE International Conference on Signal and Image Processing Applications (ICSIPA), pages 54–59. [Paper](https://ieeexplore.ieee.org/document/7412163)
 
-* Ling, H. (2017). *Augmented reality in reality*. IEEE MultiMedia, 24(3):10–15.
+* Ling, H. (2017). *Augmented reality in reality*. IEEE MultiMedia, 24(3):10–15. [Paper](https://ieeexplore.ieee.org/document/7999155)
 
-* Papagiannis, H. (2017). *Augmented Human: How Technology Is Shaping the New Reality.* O’Reilly Media.
+* Papagiannis, H. (2017). *Augmented Human: How Technology Is Shaping the New Reality.* O’Reilly Media. [Book](https://www.augmentedhuman.co/)
 
-* Peddie, J. (2017). *Augmented Reality: Where We Will All Live.* Springer International Publishing
+* Peddie, J. (2017). *Augmented Reality: Where We Will All Live.* Springer International Publishing. [Book](https://www.springer.com/gp/book/9783319545011)
 
-* Roberto, R., Lima, J. P., and Teichrieb, V. (2016). *Tracking for mobile devices: A systematic mapping study.* Computers & Graphics, 56:20 – 30.
+* Roberto, R., Lima, J. P., and Teichrieb, V. (2016). *Tracking for mobile devices: A systematic mapping study.* Computers & Graphics, 56:20 – 30. [Paper](https://www.cin.ufpe.br/~in1123/2017-1/leitura/roberto.pdf)
