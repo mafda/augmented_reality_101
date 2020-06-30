@@ -10,14 +10,13 @@ The purpose of these map is to give you an idea about **Augmented Reality** and 
 
 ![augmented reality by mafda](img/augmented_reality_by_mafda_01.png)
 
-### Definition | Basic features | Tendencies
+> Read complete post in [AR 101 — Augmented Reality](https://medium.com/@mafda_/ar-101-augmented-reality-6bc92a863b2e).
+
+### Definition and basic features
 
 ![augmented reality by mafda](img/augmented_reality_by_mafda_02.png)
 
-### Advantages | System componentes | Problems
-
-![augmented reality by mafda](img/augmented_reality_by_mafda_03.png)
-
+> Read complete post in [AR 101 — A brief summary (Part 1)](https://medium.com/@mafda_/ar-101-a-brief-summary-part-1-a5b43fad8e4).
 
 
 ## Augmented Reality Application
