@@ -18,6 +18,12 @@ The purpose of these map is to give you an idea about **Augmented Reality** and 
 
 > Read complete post in [AR 101 — A brief summary (Part 1)](https://medium.com/@mafda_/ar-101-a-brief-summary-part-1-a5b43fad8e4).
 
+### Horizontal and vertical trends
+
+![augmented reality by mafda](img/augmented_reality_by_mafda_03.png)
+
+> Read complete post in [AR 101 — Augmented Reality Trends (Part 2)](https://medium.com/@mafda_/ar-101-augmented-reality-trends-part-2-9c5f86ca0de1).
+
 
 ## Augmented Reality Application
 
