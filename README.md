@@ -24,6 +24,11 @@ The purpose of these map is to give you an idea about **Augmented Reality** and 
 
 > Read complete post in [AR 101 — Augmented Reality Trends (Part 2)](https://medium.com/@mafda_/ar-101-augmented-reality-trends-part-2-9c5f86ca0de1).
 
+### Basic process and main components
+
+![augmented reality by mafda](img/augmented_reality_by_mafda_04.png)
+
+> Read complete post in [AR 101 — Components of the Augmented Reality System (Part 3)](https://medium.com/@mafda_/ar-101-components-of-the-augmented-reality-system-part-3-878c71e68069).
 
 ## Augmented Reality Application
 
